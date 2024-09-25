@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+.gup{
+    margin-left: 31%;
+    align-content: center;
+    
+}
+
+tr{
+    background-color: rgb(5, 216, 118);
+    border-radius: 0;
+    box-sizing: content-box;
+    padding: 10px;
+}
+td{
+    background-color: rgb(255, 255, 255);
+    border-radius: 0;
+    box-sizing: content-box;
+    padding: 10px;
+}
+.tom{
+    background-color: rgb(206, 162, 109) ;
+    font-family: sans-serif;
+    margin-left: 36%;
+    margin: 40%;
+}
